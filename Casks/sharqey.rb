@@ -1,6 +1,6 @@
 cask "sharqey" do
-  version "0.3.1"
-  sha256 "072dba3b79bf800c620962ee126744c55a8f527574564db2fc042073d371c055"
+  version "0.4.0"
+  sha256 "f2162b0c915758d3f7390f90a041d7489980dd8db341435b7ee52dee6cb5d442"
 
   url "https://github.com/sharqey/desktop/releases/download/v#{version}/Sharqey-macOS.dmg"
   name "Sharqey"
